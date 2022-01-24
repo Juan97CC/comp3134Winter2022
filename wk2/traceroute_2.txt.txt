@@ -1,0 +1,10 @@
+Consu@DESKTOP-2JRFUV8 MINGW64 /
+$ tracert 45.223.17.225
+
+Tracing route to 45.223.17.225 over a maximum of 30 hops
+
+  1     5 ms     3 ms     3 ms  mynetwork.home [192.168.2.1]
+  2     7 ms     3 ms     4 ms  10.50.44.185
+  3     *        *        *     Request timed out.
+  4    20 ms    18 ms    17 ms  ssvlon3952w_lag38.net.bell.ca [142.124.127.40]
+  5

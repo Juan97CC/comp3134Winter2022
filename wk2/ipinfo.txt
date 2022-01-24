@@ -1,0 +1,38 @@
+1.
+IP Address	Country	Region	City
+104.108.52.79	France 	Ile-de-France	Paris
+ISP	     Organization	       Latitude	Longitude
+Akamai Technologies Inc, Not Available	48.8534	2.3488
+
+2.
+
+IP address is 104.124.145.17
+Domain Name	Country	Region	City
+www.costco.ca	United States of America 	California	Santa Clara
+ISP	                    Organization	Latitude	Longitude
+Akamai Technologies Inc.	Not Available	37.3541	-    121.9552
+
+3.
+
+IP address is 45.223.17.225
+Domain Name	Country	Region	City
+www.cineplex.com	United States of America 	California	Redwood City
+ISP	Organization	Latitude	Longitude
+Incapsula Inc	Not Available	37.5324	-122.2488
+
+4.
+
+IP address is 104.19.159.53
+Domain Name	Country	Region	City
+www.sideshow.com	United States of America 	California	San Francisco
+ISP	Organization	Latitude	Longitude
+CloudFlare Inc.	Not Available	37.7757	-122.3952
+
+5.
+IP address is 104.108.64.204
+Domain Name	Country	Region	City
+www.canadiantire.ca	United States of America 	California	Santa Clara
+ISP	Organization	Latitude	Longitude
+Akamai Technologies Inc.	Not Available	37.3541	-121.9552
+
+

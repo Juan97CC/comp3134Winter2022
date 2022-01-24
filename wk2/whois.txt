@@ -1,0 +1,328 @@
+Raw Whois Data 5
+
+1.
+
+
+Domain Name: georgebrown.ca
+Registry Domain ID: D121739-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.webnames.ca
+Updated Date: 2021-10-23T15:05:12Z
+Creation Date: 2002-07-04T08:35:23Z
+Registry Expiry Date: 2022-07-04T04:00:00Z
+Registrar: Webnames.ca Inc.
+Registrar IANA ID: 456
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: R21312-CIRA
+Registrant Name: George Brown College (Toronto)
+Registrant Organization:
+Registrant Street: P.O. Box 1015 Station B
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5T2T9
+Registrant Country: CA
+Registrant Phone: +1.4164155000
+Registrant Phone Ext: 5012
+Registrant Fax: +1.4164154667
+Registrant Fax Ext:
+Registrant Email: email@georgebrown.ca
+Registry Admin ID: C883431-CIRA
+Admin Name: Andrew Riem
+Admin Organization: George Brown College
+Admin Street: P.O. Box 1015 Station B
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5T2T9
+Admin Country: CA
+Admin Phone: +1.4164155000
+Admin Phone Ext: 5012
+Admin Fax: +1.4164154667
+Admin Fax Ext:
+Admin Email: email@georgebrown.ca
+Registry Tech ID: C883432-CIRA
+Tech Name: Dorin Grunberg
+Tech Organization: George Brown College
+Tech Street: P.O. Box 1015 Station B
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5T2T9
+Tech Country: CA
+Tech Phone: +1.4164155000
+Tech Phone Ext: 4935
+Tech Fax: +1.4164154836
+Tech Fax Ext:
+Tech Email: email@georgebrown.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.d-zone.ca
+Name Server: ns1.georgebrown.ca
+Name Server: ns2.d-zone.ca
+Name Server: ns2.georgebrown.ca
+DNSSEC: unsigned
+
+2.
+
+
+Domain Name: google.com
+Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-09-09T15:39:04+0000
+Creation Date: 1997-09-15T07:00:00+0000
+Registrar Registration Expiration Date: 2028-09-13T07:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Google LLC
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Admin Organization: Google LLC
+Admin State/Province: CA
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Tech Organization: Google LLC
+Tech State/Province: CA
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Name Server: ns4.google.com
+Name Server: ns2.google.com
+Name Server: ns3.google.com
+Name Server: ns1.google.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2022-01-24T04:27:25+0000 <<<
+
+For more information on WHOIS status codes, please visit:
+  https://www.icann.org/resources/pages/epp-status-codes
+
+If you wish to contact this domain’s Registrant, Administrative, or Technical
+contact, and such email address is not visible above, you may do so via our web
+form, pursuant to ICANN’s Temporary Specification. To verify that you are not a
+robot, please enter your email address to receive a link to a page that
+facilitates email communication with the relevant contact(s).
+
+Web-based WHOIS:
+  https://domains.markmonitor.com/whois
+
+If you have a legitimate interest in viewing the non-public WHOIS details, send
+your request and the reasons for your request to email@markmonitor.com
+and specify the domain name in the subject line. We will review that request and
+may ask for supporting documentation and explanation.
+
+The data in MarkMonitor’s WHOIS database is provided for information purposes,
+and to assist persons in obtaining information about or related to a domain
+name’s registration record. While MarkMonitor believes the data to be accurate,
+the data is provided "as is" with no guarantee or warranties regarding its
+accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+  (1) allow, enable, or otherwise support the transmission by email, telephone,
+or facsimile of mass, unsolicited, commercial advertising, or spam; or
+  (2) enable high volume, automated, or electronic processes that send queries,
+data, or email to MarkMonitor (or its systems) or the domain name contacts (or
+its systems).
+
+MarkMonitor reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by this policy.
+
+MarkMonitor Domain Management(TM)
+Protecting companies and consumers in a digital world.
+
+
+3.
+
+Domain Name: davidlah.com
+Registry Domain ID: 2581957484_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.google.com
+Registrar URL: https://domains.google.com
+Updated Date: 2021-12-31T23:20:48Z
+Creation Date: 2020-12-31T20:24:20Z
+Registrar Registration Expiration Date: 2022-12-31T20:24:20Z
+Registrar: Google LLC
+Registrar IANA ID: 895
+Registrar Abuse Contact Email: email@google.com
+Registrar Abuse Contact Phone: +1.8772376466
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID:
+Registrant Name: Contact Privacy Inc. Customer 1249007458
+Registrant Organization: Contact Privacy Inc. Customer 1249007458
+Registrant Street: 96 Mowat Ave
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M4K 3K1
+Registrant Country: CA
+Registrant Phone: +1.4165385487
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: email@contactprivacy.email
+Registry Admin ID:
+Admin Name: Contact Privacy Inc. Customer 1249007458
+Admin Organization: Contact Privacy Inc. Customer 1249007458
+Admin Street: 96 Mowat Ave
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M4K 3K1
+Admin Country: CA
+Admin Phone: +1.4165385487
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: email@contactprivacy.email
+Registry Tech ID:
+Tech Name: Contact Privacy Inc. Customer 1249007458
+Tech Organization: Contact Privacy Inc. Customer 1249007458
+Tech Street: 96 Mowat Ave
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M4K 3K1
+Tech Country: CA
+Tech Phone: +1.4165385487
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: email@contactprivacy.email
+Name Server: NS-CLOUD-D1.GOOGLEDOMAINS.COM
+Name Server: NS-CLOUD-D2.GOOGLEDOMAINS.COM
+Name Server: NS-CLOUD-D3.GOOGLEDOMAINS.COM
+Name Server: NS-CLOUD-D4.GOOGLEDOMAINS.COM
+DNSSEC: signedDelegation
+
+4.
+
+
+Domain Name: youtube.com
+Registry Domain ID: 142504053_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2022-01-14T09:38:42+0000
+Creation Date: 2005-02-15T05:13:12+0000
+Registrar Registration Expiration Date: 2023-02-15T00:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Google LLC
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Admin Organization: Google LLC
+Admin State/Province: CA
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Tech Organization: Google LLC
+Tech State/Province: CA
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Name Server: ns1.google.com
+Name Server: ns4.google.com
+Name Server: ns2.google.com
+Name Server: ns3.google.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2022-01-23T09:53:13+0000 <<<
+
+
+5.
+
+Domain Name: markmonitor.ca
+Registry Domain ID: D121269-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: Markmonitor.com
+Updated Date: 2021-05-05T09:09:20Z
+Creation Date: 2002-06-06T21:02:22Z
+Registry Expiry Date: 2023-06-06T04:00:00Z
+Registrar: MarkMonitor International Canada Ltd.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 16351390-CIRA
+Registrant Name: MarkMonitor International Canada Ltd
+Registrant Organization:
+Registrant Street: Suite 700,  Two Bentall Centre, 555 Burrard Street
+Registrant City: Vancouver
+Registrant State/Province: BC
+Registrant Postal Code: V7X1M8
+Registrant Country: CA
+Registrant Phone: +1.2083895740
+Registrant Phone Ext:
+Registrant Fax: +1.2083895771
+Registrant Fax Ext:
+Registrant Email: email@markmonitor.com
+Registry Admin ID: 16416641-CIRA
+Admin Name: Stu Homan
+Admin Organization: MarkMonitor International Canada Ltd
+Admin Street: P.O. Box 91803
+Admin City: West Vancouver
+Admin State/Province: BC
+Admin Postal Code: V7V4S1
+Admin Country: CA
+Admin Phone: +1.2083895740
+Admin Phone Ext:
+Admin Fax: +1.2083895771
+Admin Fax Ext:
+Admin Email: email@markmonitor.com
+Registry Tech ID: 16416641-CIRA
+Tech Name: Stu Homan
+Tech Organization: MarkMonitor International Canada Ltd
+Tech Street: P.O. Box 91803
+Tech City: West Vancouver
+Tech State/Province: BC
+Tech Postal Code: V7V4S1
+Tech Country: CA
+Tech Phone: +1.2083895740
+Tech Phone Ext:
+Tech Fax: +1.2083895771
+Tech Fax Ext:
+Tech Email: email@markmonitor.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.markmonitor.com
+Name Server: ns2.markmonitor.com
+Name Server: ns3.markmonitor.com
+Name Server: ns4.markmonitor.com
+Name Server: ns5.markmonitor.com
+Name Server: ns6.markmonitor.com
